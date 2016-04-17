@@ -53,9 +53,11 @@ First 5 indices now store 'FiBuz'
 
 
 
-(8) will store the input limit value; for now set to 35; this will be the main loop control var
->>>>++++++++++++++++++++
->++++++++++< Store newline in index (9)
+(8) stores 100; this will be the main loop control var
+>>>>++++++++++[->+>+<<]>[->[-<<+>>>+<]>[-<+>]<<]>[-]
+
+
+<++++++++++< Store newline in index (9)
 
 Use (5) to store mod 3 and (6) to store mod 5
 Use (10) to store whether or not it is a multiple of 3; (11) for multiple of 5
